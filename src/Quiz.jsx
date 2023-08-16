@@ -47,7 +47,7 @@ const Quiz = ({ questions, setShowScore, score, setScore, wrong, setWrongAnswers
 
     return (
         <>
-            <div className="quiz-wrapper">
+            <div className="quiz-wrapper pb-20 sm:pb-0">
                 <div className="px-10 sm:px-0 pt-10 mb-12 sm:mb-0">
                     <Indicators score={score} questions={questions} wrong={wrong} />
                     <Question currentQuestion={currentQuestion} question={question} />

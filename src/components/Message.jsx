@@ -9,7 +9,7 @@ const Message = ({ message, color, children }) => {
     console.log(message);
 
     return (
-        <div className={`bg-${color} sm:bg-transparent p-10 sm:p-2 w-100`}>
+        <div className={`bg-${color} sm:bg-transparent mt-2 p-10 sm:p-2 w-100 flex-row sm:flex-col sm:justify-end`}>
             <div className={`bg-${color} w-100 mt-10 sm:mt-2`}>
                 <div className={`${showHide} w-full rounded-xl w-32 text-black sm:text-white flex flex-col sm:flex-row justify-center items-center m-auto py-3 sm:py-3 mb-4 sm:mb-5 -mt-16 sm:mt-3`}>
                     <div className={`${showHide} bg-white sm:bg-transparent rounded-xl w-32 text-black sm:text-white flex flex-col sm:flex-row justify-center items-center m-auto sm:m-0 py-3 sm:py-0 mb-8 sm:mb-0 -mt-16 sm:mt-0`}>
