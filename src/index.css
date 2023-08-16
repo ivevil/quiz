@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background: #31333a;
+}
+
+.quiz-container {
+  margin: 0 auto;
+}
+
+.quiz-wrapper {
+  max-width: 670px;
+  margin: 0 auto;
+}
