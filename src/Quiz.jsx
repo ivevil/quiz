@@ -1,6 +1,5 @@
 /* eslint-disable */
 import { useState } from "react";
-import Navigation from './components/Navigation';
 import Indicators from './components/Indicators';
 import Button from './components/Button';
 import Question from './components/Question';
@@ -16,7 +15,7 @@ const Quiz = ({ questions, setShowScore, score, setScore, wrong, setWrongAnswers
     const [color, setColor] = useState("");
     const [message, setMessage] = useState("");
 
-    const { question, correctAnswer } = questions !== null ? questions[currentQuestion] : "";
+    const { question } = questions !== null ? questions[currentQuestion] : "";
 
     const handleAnswerSelection = (selectedAnswer) => {
         const updatedAnswers = [...answers];
@@ -47,19 +46,18 @@ const Quiz = ({ questions, setShowScore, score, setScore, wrong, setWrongAnswers
 
     return (
         <>
-            <div className="quiz-wrapper pb-20 sm:pb-0">
-                <div className="px-10 sm:px-0 pt-10 mb-12 sm:mb-0">
-                    <Indicators score={score} questions={questions} wrong={wrong} />
-                    <Question currentQuestion={currentQuestion} question={question} />
-                    <Input handleAnswerSelection={handleAnswerSelection} handleNextQuestion={handleNextQuestion} />
-                </div>
-                <Message message={message} color={color}>
+            <div className="px-10 sm:px-0 pt-10 mb-12 sm:mb-0">
+                <Indicators score={score} questions={questions} wrong={wrong} />
+                <Question currentQuestion={currentQuestion} question={question} />
+                <Input handleAnswerSelection={handleAnswerSelection} handleNextQuestion={handleNextQuestion} />
+            </div>
+            <Message message={message} color={color}>
+                <div className="w-50 sm:w-full m-auto flex flex-row justify-center sm:justify-end">
                     <Button action={handleNextQuestion}>
                         Weiter <Icon classes="" imgurl="./chevron-right.svg" alt="Chevron Right" />
                     </Button>
-                </Message>
-            </div>
-            <Footer />
+                </div>
+            </Message>
         </>
     );
 }
