@@ -21,6 +21,8 @@ export default {
       sm: '12px',
       base: '16px',
       xl: '18px',
+      xxl: '24px',
+      xxxl: '32px'
     }
   },
   plugins: [],
