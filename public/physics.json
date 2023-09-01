@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "question": "Mit welcher Begrifflichkeit haben Astrophysiker häufig zu tun?",
+      "answer": "Rotverschiebung"
+    },
+    {
+      "id": 2,
+      "question": "Was verhalf der Sage nach Isaac Newton zu seinem Gravitationsgesetzt?",
+      "answer": "Apfel"
+    },
+    {
+      "id": 3,
+      "question": "Welche Gleichung aus dem ohmschen Gesetz ist richtig?",
+      "answer": "U=R*I"
+    },
+    {
+      "id": 4,
+      "question": "Wo wurden Fresnel-Linsen im 19. Jahrhundert überwiegend eingesetzt?",
+      "answer": "Leuchtturm"
+    },
+    {
+      "id": 5,
+      "question": "Was beschreibt ein physikalisches Gedankenexperiment?",
+      "answer": "Schrödingers Katze"
+    },
+    {
+      "id": 6,
+      "question": "100 Grad Celsius entsprechen…",
+      "answer": "212 Fahrenheit"
+    },
+    {
+      "id": 7,
+      "question": "Welche Zerfallsart in Bezug auf die Radioaktivität gibt es in der Physik nicht?",
+      "answer": "Delta-Zerfall"
+    },
+    {
+      "id": 8,
+      "question": "Der erste Hauptsatz der Thermodynamik beschreibt…",
+      "answer": "die Energieerhaltung"
+    },
+    {
+      "id": 9,
+      "question": "Mit welchem Gerät erzeugt man aus Wechselstrom Gleichstrom?",
+      "answer": "Gleichrichter"
+    },
+    {
+      "id": 10,
+      "question": "Welches Element ist magnetisch?",
+      "answer": "Eisen"
+    },
+    {
+      "id": 11,
+      "question": "Was trägt primär zur Entstehung von Polarlichtern bei?",
+      "answer": "Magnetismus"
+    },
+    {
+      "id": 12,
+      "question": "Wofür erhielt Albert Einstein den Nobelpreis?",
+      "answer": "Photoelektrischen Effekt"
+    },
+    {
+      "id": 13,
+      "question": "Welcher Physiker formulierte die Unschärferelation?",
+      "answer": "Werner Heisenberg"
+    },
+    {
+      "id": 14,
+      "question": "Wo wurden Fresnel-Linsen im 19. Jahrhundert überwiegend eingesetzt?",
+      "answer": "Leuchtturm"
+    },
+    {
+      "id": 15,
+      "question": "Was gibt man in kg/m³ an?",
+      "answer": "Dichte"
+    },
+    {
+      "id": 16,
+      "question": "Wie viele Arten von Quarks sind der Physik bekannt?",
+      "answer": "6"
+    },
+    {
+      "id": 17,
+      "question": "Wie lautet die Formel für gleichförmige Bewegung?",
+      "answer": "s = v * t "
+    }
+  ]
+  

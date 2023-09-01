@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "question": "Wer fand den Seeweg nach Indien?",
+        "answer": "Vasco da Gama"
+    },
+    {
+        "id": 2,
+        "question": "Was war der größte zusammenhängende Herrschaftsbereich der Weltgeschichte?",
+        "answer": "Mongolisches Reich"
+    },
+    {
+        "id": 3,
+        "question": "Wer war der erste Mensch im Weltraum?",
+        "answer": "Juri Alexejewitsch Gagarin"
+    },
+    {
+        "id": 4,
+        "question": "Wer war der erste Präsident der Vereinigten Staaten von Amerika?",
+        "answer": "George Washington"
+    },
+    {
+        "id": 5,
+        "question": "Wer war die letzte Pharaonin?",
+        "answer": "Kleopatra VII."
+    },
+    {
+        "id": 6,
+        "question": "Welches Buch ist das Hauptwerk von Karl Marx?",
+        "answer": "Das Kapital"
+    },
+    {
+        "id": 7,
+        "question": "Wie hieß der spanische Diktator, der von 1936 bis 1975 herrschte?",
+        "answer": "Francisco Franco"
+    },
+    {
+        "id": 8,
+        "question": "Welches Adelsgeschlecht regierte Österreich?",
+        "answer": "Habsburg"
+    },
+    {
+        "id": 9,
+        "question": "Wie hieß der Herrscher, der die maurischen Raubzüge in Westeuropa stoppte?",
+        "answer": "Karl Martell"
+    },
+    {
+        "id": 10,
+        "question": "Welcher Krieg der USA dauerte von 1955 bis 1975 an?",
+        "answer": "Vietnamkrieg"
+    },
+    {
+        "id": 11,
+        "question": "Wer betrat als erster Mensch den Mond?",
+        "answer": "Neil Armstrong"
+    },
+    {
+        "id": 12,
+        "question": "Wer ist der meistgelesene französische Autor des 18. Jahrhunderts?",
+        "answer": "Voltaire"
+    },
+    {
+        "id": 13,
+        "question": "Wer war der zweite deutsche Papst?",
+        "answer": "Clemens II."
+    },
+    {
+        "id": 14,
+        "question": "Wer war von 1948 bis 1994 Diktator von Nordkorea?",
+        "answer": "Kim Il-sung"
+    },
+    {
+        "id": 15,
+        "question": "Wie hieß die erste im Krieg eingesetzte Atombombe?",
+        "answer": "Little Boy"
+    },
+    {
+        "id": 16,
+        "question": "Was passierte am 24. Oktober 1929?",
+        "answer": "Schwarzer Donnerstag"
+    },
+    {
+        "id": 17,
+        "question": "Welches Ereignis markiert den Beginn der islamischen Zeitrechnung?",
+        "answer": "Hidschra"
+    },
+    {
+        "id": 18,
+        "question": "Wie heißt der Gründer der Türkei?",
+        "answer": "Mustafa Kemal Atatürk"
+    },
+    {
+        "id": 19,
+        "question": "Wie nennt man Deutschland von 1918 bis 1933?",
+        "answer": "Weimarer Republik"
+    },
+    {
+        "id": 20,
+        "question": "Wer führte in Deutschland die Kranken-, Unfall- und Rentenversicherung ein?",
+        "answer": "Otto von Bismarck"
+    },
+    {
+        "id": 21,
+        "question": "Wie heißt das Schiff, mit dem die sogenannten Pilgerväter nach Amerika kamen?",
+        "answer": "Mayflower"
+    },
+    {
+        "id": 22,
+        "question": "Wer waren, nach römischer Mythologie, die Gründer Roms?",
+        "answer": "Romulus und Remus"
+    },
+    {
+        "id": 23,
+        "question": "Welche Schlacht begann am 6. Juni 1944?",
+        "answer": "Operation Neptune"
+    }
+]

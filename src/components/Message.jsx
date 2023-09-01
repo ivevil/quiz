@@ -3,7 +3,7 @@ import Icon from "./Icon";
 /* eslint-disable */
 const Message = ({ message, color, children }) => {
     const showHide = message ? "show" : "hidden";
-    const imgurl = color === "negative-red" ? "frown.svg" : "smile.svg";
+    const imgurl = color === "negative-red" ? "/frown.svg" : "/smile.svg";
     const imgalt = color === "negative-red" ? "Angry face icon" : "Sad face icon";
     const topmsg = color === "negative-red" ? "Oooops!" : "Yippie!";
 

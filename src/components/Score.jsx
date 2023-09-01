@@ -33,7 +33,7 @@ const Score = ({ setShowScore, questions, score, wrong, setWrongAnswers, setScor
                     </div>
                 </div>
                 <div className="flex justify-center w-full m-auto">
-                    <Button action={resetQuiz}>Try Again <Icon classes="" imgurl="./chevron-right.svg" alt="Chevron Right" /></Button>
+                    <Button action={resetQuiz}>Try Again <Icon classes="" imgurl="/chevron-right.svg" alt="Chevron Right" /></Button>
                 </div>
             </div>
         </div>

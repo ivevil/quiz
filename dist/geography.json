@@ -1,81 +1,101 @@
 [
   {
+    "id": 1,
     "question": "Was ist die Hauptstadt Indiens?",
     "answer": "New Delhi"
   },
   {
+    "id": 2,
     "question": "Was ist die Hauptstadt Pakistans?",
     "answer": "Islamabad"
   },
   {
+    "id": 3,
     "question": "Was ist die Hauptstadt Bangladeschs?",
     "answer": "Dhaka"
   },
   {
+    "id": 4,
     "question": "Was ist die Hauptstadt Nepals?",
     "answer": "Kathmandu"
   },
   {
+    "id": 5,
     "question": "Was ist die Hauptstadt Deutschlands?",
     "answer": "Berlin"
   },
   {
+    "id": 6,
     "question": "Was ist die Hauptstadt Frankreichs?",
     "answer": "Paris"
   },
   {
+    "id": 7,
     "question": "Was ist die Hauptstadt Italiens?",
     "answer": "Rom"
   },
   {
+    "id": 8,
     "question": "Was ist die Hauptstadt Spaniens?",
     "answer": "Madrid"
   },
   {
+    "id": 9,
     "question": "Was ist die Hauptstadt Portugals?",
     "answer": "Lissabon"
   },
   {
+    "id": 10,
     "question": "Was ist die Hauptstadt Griechenlands?",
     "answer": "Athen"
   },
   {
+    "id": 11,
     "question": "Was ist die Hauptstadt der Türkei?",
     "answer": "Ankara"
   },
   {
+    "id": 12,
     "question": "Was ist die Hauptstadt Russlands?",
     "answer": "Moskau"
   },
   {
+    "id": 13,
     "question": "Was ist die Hauptstadt Chinas?",
     "answer": "Peking"
   },
   {
+    "id": 14,
     "question": "Was ist die Hauptstadt Japans?",
     "answer": "Tokio"
   },
   {
+    "id": 15,
     "question": "Was ist die Hauptstadt Südkoreas?",
     "answer": "Seoul"
   },
   {
+    "id": 16,
     "question": "Was ist die Hauptstadt Vietnams?",
     "answer": "Hanoi"
   },
   {
+    "id": 17,
     "question": "Was ist die Hauptstadt Thailands?",
     "answer": "Bangkok"
   },
   {
+    "id": 18,
     "question": "Was ist die Hauptstadt Singapurs?",
     "answer": "Singapur"
   },
   {
+    "id": 19,
     "question": "Was ist die Hauptstadt Australiens?",
     "answer": "Canberra"
   },
   {
+    "id": 20,
     "question": "Was ist die Hauptstadt Kanadas?",
     "answer": "Ottawa"
   }

@@ -54,7 +54,7 @@ const Quiz = ({ questions, setShowScore, score, setScore, wrong, setWrongAnswers
             <Message message={message} color={color}>
                 <div className="w-50 sm:w-full m-auto flex flex-row justify-center sm:justify-end">
                     <Button action={handleNextQuestion}>
-                        Weiter <Icon classes="" imgurl="./chevron-right.svg" alt="Chevron Right" />
+                        Weiter <Icon classes="" imgurl="/chevron-right.svg" alt="Chevron Right" />
                     </Button>
                 </div>
             </Message>

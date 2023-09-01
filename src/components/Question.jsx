@@ -7,7 +7,7 @@ const Question = ({ currentQuestion, question }) => {
             <h2 className="text-primary text-center pb-8 text-sm">FRAGE {currentQuestion + 1}</h2>
             <div className="flex justify-center items-center">
                 <hr className="w-full mr-4" />
-                <Icon classes="" imgurl="./question.svg" alt="Small icon" />
+                <Icon classes="" imgurl="/question.svg" alt="Small icon" />
                 <hr className="w-full ml-4" />
             </div>
             <h1 className="text-xl text-center font-semibold pt-8">&quot;{question}&quot;</h1>

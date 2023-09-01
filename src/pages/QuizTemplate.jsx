@@ -9,15 +9,15 @@ const QuizTemplate = () => {
   const [showScore, setShowScore] = useState(false);
   const [score, setScore] = useState(0);
   const [wrong, setWrongAnswers] = useState(0);
+  const { id } = useParams();
 
+  const jsonFile = `/${id}.json`;
 
   useEffect(() => {
-    fetch('./questions.json')
+    fetch(jsonFile)
       .then(response => response.json())
       .then(json => getQuestions(json.sort(() => Math.random() - 0.5)));
   }, []);
-  const { id } = useParams()
-  console.log(id);
   
   return (
     <div className="quiz-container bg-dark-grayish-blue">

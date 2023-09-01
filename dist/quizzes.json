@@ -1,0 +1,30 @@
+[
+    {
+        "quizzTitle": "Geography",
+        "quizzDescription": "Test your geography with this small test of 20 questions.",
+        "quizzImage": "/image.jpg",
+        "quizzImageAlt": "Geography Quizz image",
+        "quizzSource": "geography"
+    },
+    {
+        "quizzTitle": "History",
+        "quizzDescription": "Test your history with this small test of 23 questions.",
+        "quizzImage": "/coloseum.jpg",
+        "quizzImageAlt": "History Quizz image",
+        "quizzSource": "history"
+    },
+    {
+        "quizzTitle": "Biology",
+        "quizzDescription": "Test your biology with this small test of 19 questions.",
+        "quizzImage": "/fern.jpg",
+        "quizzImageAlt": "Biology Quizz image",
+        "quizzSource": "biology"
+    },
+    {
+        "quizzTitle": "Physics",
+        "quizzDescription": "Test your physics with this small test of 17 questions.",
+        "quizzImage": "/physics.jpg",
+        "quizzImageAlt": "Physics Quizz image",
+        "quizzSource": "physics"
+    }
+]
